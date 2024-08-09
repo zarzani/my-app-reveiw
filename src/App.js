@@ -23,7 +23,7 @@ function App() {
       </ul>
        </h2>
 <h3> <Search/> </h3>
-<Search/>
+
     </div>
   );
 }
