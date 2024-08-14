@@ -2,6 +2,8 @@
 import './App.css';
 import Weather  from "./Weather";
 import Search from './Search';
+import Hello from './Hello'; 
+
 
 
 
@@ -11,7 +13,9 @@ function App() {
       
        
       <header>
-      <h1 className="myName" > Zahra Arzani </h1>  
+      <h1 className="myName" > Zahra Arzani </h1> 
+      <Hello />
+       
       </header>
 
       <h2>
